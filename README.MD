@@ -1,5 +1,6 @@
-# Progressive Web Apps - Complete Guide
+# Progressive Web Apps - Complete Guide,Branch #1 and Branch #2
 This source code is part of Maximilian Schwarzmüller's [Progressive Web Apps - Complete Guide](https://www.udemy.com/course/progressive-web-app-pwa-the-complete-guide) course on udemy.com.
+
 
 # Branch #3 NextJS PWA
 This source code from [Blog Avneesh](https://blog.avneesh.tech/how-to-create-a-pwa-with-nextjs).
